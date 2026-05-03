@@ -1,0 +1,59 @@
+BRAND VOICE GUIDE
+
+REPLACE THE CONTENT BELOW WITH YOUR ACTUAL BRAND VOICE.
+
+The example voice below ("approachable, plainspoken, technically precise") is illustrative only - it's there so the example is runnable out of the box. Your real brand voice is almost certainly different and more specific.
+
+================================================================
+EXAMPLE VOICE (REPLACE THIS)
+================================================================
+
+Our voice is approachable, plainspoken, and technically precise.
+
+CORE TRAITS:
+
+1. PLAIN LANGUAGE
+We avoid jargon, buzzwords, and corporate-speak. We say "use" not "leverage", "help" not "empower", "talk to" not "engage with".
+
+Bad: "We leverage cutting-edge synergies to empower stakeholders."
+Good: "We help teams ship faster."
+
+2. DIRECT
+We make claims and stand behind them. We don't hedge with "may", "could potentially", "in some cases" when we mean "does".
+
+Bad: "This may help to potentially reduce errors in some cases."
+Good: "This catches errors before they ship."
+
+3. TECHNICALLY HONEST
+When we describe how something works, we use the actual word for it. We don't dumb things down to the point of inaccuracy.
+
+Bad: "Our smart system magically figures it out."
+Good: "We run the input through a classifier and route based on confidence."
+
+4. RESPECTFUL OF READER TIME
+Short sentences. Active voice. No throat-clearing intros ("In today's fast-paced world...").
+
+Bad: "In an increasingly complex landscape, organizations are seeking ways to..."
+Good: "Most teams want X. Here's how we do it."
+
+5. FRIENDLY BUT NOT CASUAL
+We're warm but professional. No "hey friends!", no excessive exclamation points, no emoji in formal copy.
+
+THINGS WE NEVER DO:
+- Use "leverage" as a verb
+- Say "in today's [adjective] world"
+- Open with a rhetorical question we then answer
+- Pile up adjectives ("innovative, cutting-edge, world-class")
+
+================================================================
+
+ADAPTING THIS:
+
+Replace everything above with your actual brand voice. Useful prompts to draft your own:
+
+- What three adjectives describe how the brand sounds?
+- What words or phrases are off-limits?
+- Give one "bad" and one "good" example for each core trait.
+- What's the difference between formal and informal contexts (if there is one)?
+
+The more concrete the rules, the more useful the review.

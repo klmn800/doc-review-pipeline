@@ -1,0 +1,27 @@
+EVALUATION CRITERIA REFERENCE
+
+This file contains additional guidance for the reviewer.
+You can edit this file to refine how documents are evaluated.
+
+WHAT COUNTS AS PROCEDURAL CONTENT:
+- Step-by-step instructions (e.g., "1. First, do X. 2. Then, do Y.")
+- Process workflows with clear sequences
+- "How-to" guidance that staff can follow
+- Concrete action steps with responsibilities
+
+WHAT DOES NOT COUNT AS PROCEDURAL:
+- High-level policy statements without implementation details
+- Requirements without guidance on how to meet them
+- Principles or values without operational steps
+- Definitions or background information alone
+
+EXAMPLES OF "PASSED" DOCUMENTS:
+- Document states a policy AND provides numbered steps to implement it
+- Document includes both "what" (policy) and "how" (procedure)
+- Clear, actionable procedures are present alongside policy language
+
+EXAMPLES OF "NEEDS REVIEW" DOCUMENTS:
+- Document is all policy with no procedural guidance
+- Vague suggestions but no concrete steps
+- References procedures but doesn't include them
+- Only high-level requirements without implementation details

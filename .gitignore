@@ -1,0 +1,49 @@
+# Config file with API keys
+config.ini
+
+# Generated data folders
+processed/
+logs/
+logs/check_*.txt
+logs/review_*.txt
+__pycache__/
+*.pyc
+
+# Tracker files (contain review data)
+tracker.xlsx
+tracker.csv
+tracker_backup_*.xlsx
+
+# Watcher log
+watcher.log
+
+# User documents (don't commit real review documents)
+inbox/*.docx
+inbox/*.msg
+inbox/*.eml
+inbox/_temp_attachments/
+test_*.docx
+test_*.msg
+test_*.eml
+
+# Python cache
+*.py[cod]
+*$py.class
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

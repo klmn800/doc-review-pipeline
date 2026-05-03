@@ -1,0 +1,50 @@
+CONTRACT COMPLETENESS CHECKLIST
+
+This is a structural review only. You are not checking whether terms are favorable, well-drafted, or legally enforceable - only whether the contract addresses each topic below at all.
+
+REQUIRED CLAUSES (always flag if missing):
+
+1. PARTIES
+   The contract identifies all contracting parties by full legal name.
+   Red flag: only first names, vague references like "the Company", or one party not named.
+
+2. EFFECTIVE DATE AND TERM
+   The contract states when it begins and how long it lasts (or under what conditions it ends).
+   Red flag: no start date, no end date and no termination conditions, ambiguous duration.
+
+3. SCOPE / DELIVERABLES
+   The contract describes what is being exchanged - services to be performed, goods delivered, work product, etc.
+   Red flag: vague scope ("services as needed"), missing deliverables list, no description of what one party gets.
+
+4. PAYMENT TERMS
+   Amount, schedule, and method of payment are specified.
+   Red flag: amount missing, no payment schedule, no invoicing/method detail.
+
+5. TERMINATION
+   The contract describes how either party can end the agreement (notice period, cause vs. without cause, consequences).
+   Red flag: no termination provision, only one party has termination rights, no notice period.
+
+6. GOVERNING LAW
+   The jurisdiction whose law applies is specified.
+   Red flag: not addressed at all.
+
+7. INDEMNIFICATION
+   The contract addresses which party covers losses arising from the agreement (claims, damages, third-party suits).
+   Red flag: not addressed in any form.
+
+8. SIGNATURES
+   Signature blocks with named signatories, titles, and date lines for all parties.
+   Red flag: missing signature block, only one party has a signature block, no name/title lines.
+
+CONDITIONALLY REQUIRED:
+
+9. CONFIDENTIALITY / NDA TERMS
+   Required if the agreement involves sharing non-public information. If the contract is for purely public-facing work (e.g. marketing services, public events), this may not apply.
+
+EXAMPLES:
+
+PASSED:
+"All nine standard clauses are present. Term runs 12 months with 30-day termination notice; payment terms specify monthly invoicing; governing law is Delaware; both parties have full signature blocks."
+
+NEEDS REVIEW:
+"Missing termination clause - the contract has no provision for either party to end the agreement, and no end date. Indemnification is also absent. Other standard clauses are present."

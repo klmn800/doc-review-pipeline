@@ -1,0 +1,41 @@
+# Document Review Pipeline Configuration
+# Copy this file to config.ini and fill in your API key.
+#
+# For shared or production use, prefer the ANTHROPIC_API_KEY environment
+# variable over storing the key in this file.
+
+[API]
+# Your Anthropic API key - get one at https://console.anthropic.com/
+anthropic_api_key = your_key_here
+
+# Claude model to use
+# Sonnet: claude-sonnet-4-5-20250929 (recommended - best quality)
+# Haiku: claude-haiku-4-5-20251001 (faster, cheaper - good for simple reviews)
+# Opus: claude-opus-4-5-20251101 (deeper, more expensive - good for complex reviews)
+model = claude-sonnet-4-5-20250929
+
+# Maximum tokens for Claude's response (increase if needed for long analyses)
+max_tokens = 2000
+
+[Paths]
+# Folder where you drop .docx, .msg, or .eml files for processing
+input_folder = ./inbox
+
+# Folder where processed files are moved
+processed_folder = ./inbox/processed
+
+# Excel file that tracks all reviews
+tracker_file = ./tracker.xlsx
+
+# Folder for log files
+log_folder = ./logs
+
+# Folder containing system prompts and instructions
+prompts_folder = ./prompts
+
+[Settings]
+# Whether to preserve numbered/bulleted lists in extracted text
+preserve_lists = yes
+
+# Whether to accept tracked changes before processing
+accept_tracked_changes = yes
