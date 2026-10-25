@@ -6,20 +6,21 @@
 `sandbox_projects`; this project's sessions own it from here)*
 
 ### Current state
-A working prototype: batch-reviews Word documents (or `.msg`/`.eml` emails with `.docx`
-attachments) dropped in `inbox/`, sends each one to Claude with editable prompts, and writes
-results and cost to an Excel tracker. Built for a DTA policy peer-review workflow; it stalled
-because no approved API endpoint was available at work. Cloned onto the work laptop 2026-10-25.
-Not yet installed or run here.
+**Parked (Ben, 2026-10-25).** An early prototype, kept as a reference for when this work
+resumes, not as a base to extend as-is. It batch-reviews Word documents (or `.msg`/`.eml`
+emails with `.docx` attachments) with Claude against editable prompts and writes results and
+cost to an Excel tracker. The original plan was Power Automate with a Copilot step; there's no
+Copilot at work, and no approved endpoint for a Claude step either, so it stalled. It predates
+Ben's current standards. Not installed or run on this laptop.
 
 ### Needs Ben
-- Is this active again, and for what? If it's to run on work documents, it needs an approved
-  AI service (same open question as db-chat: the EOHHS sandbox's Bedrock catalog). Until then,
-  no real DTA documents go through it on a personal API key.
+Nothing.
 
 ### Blockers
 None.
 
 ### Next
-Decide its future (above). If active: install on Python 3.14, run it against made-up test
-documents, and bring `config.ini.template`'s model list up to date (it names 4.5-era models).
+Nothing until the EOHHS sandbox is understood (`shared-knowledge/eohhs-sandbox`); then it's on
+Ben's queue. When it resumes, the first step is to review it against the current standards and
+decide what to keep (prompt-file design, email parsing and the tracker's lock fallback look
+reusable) and what to redo.
