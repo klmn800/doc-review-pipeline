@@ -13,9 +13,6 @@ cost to an Excel tracker. The original plan was Power Automate with a Copilot st
 Copilot at work, and no approved endpoint for a Claude step either, so it stalled. It predates
 Ben's current standards. Not installed or run on this laptop.
 
-### Needs Ben
-Nothing.
-
 ### Blockers
 None.
 
